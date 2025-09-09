@@ -1,0 +1,9 @@
+name: news_reader
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.12.7
+- alembic
+- requests
+- psycopg2

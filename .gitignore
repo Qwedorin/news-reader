@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.bkp
+*.dtmp
+docker-test.py
